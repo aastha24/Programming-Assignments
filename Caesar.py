@@ -7,6 +7,7 @@
 # Store user inputs
 plaintext= input("Enter your string:")
 key_str = input("Enter the offset:")
+key = int (key_str)
 
 #predefined cipher code list
 stored_data = ' 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
