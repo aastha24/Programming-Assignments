@@ -1,3 +1,5 @@
+#Developer: Aastha Ananad
+
 class DisjointSet:
     def __init__(self, n):
         self.p = list(range(n))
